@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **Bencosterton/Bencosterton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, my name is Benjamin Costerton.
+
+Most things I get up to are to do with sound, be it engineering, thinking about it, or just listening.
+
+I am a sound engineer most days doing what I can to make things sound better.
+
+Right now I’m working in television in the UK, running a sound effects library, writing down and publishing my ideas on the future or acoustics, and building software to make all the above easier.
+Here are some ideas to get you started:
+ 
+
+Get in touch --> bencosterton@gmail.com // www.bencosterton.co.uk 
