@@ -7,7 +7,7 @@ Most things I get up to are to do with sound, be it engineering, thinking about 
 
 I am a sound engineer most days doing what I can to make things sound better.
 
-Right now I’m working in television in the UK, running a sound effects library, writing down and publishing my ideas on the future or acoustics, and building software to make all the above easier.
+Right now I’m working in television in the UK, running a sound effects library, and building things to make it easier.
 Here are some ideas to get you started:
  
 
