@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/21957617/196155260-cd427042-c1cd-4902-9d29-cf101a7d287b.png)
+![image](https://user-images.githubusercontent.com/21957617/196155539-e29ec009-0d35-4021-95a2-d33d240962e3.png)
 
 Most things I get up to are to do with sound, be it engineering, thinking about it, or just listening.
 I am a broadcast audio network engineer most days doing what I can to make things talk to each other while sounding nice.
