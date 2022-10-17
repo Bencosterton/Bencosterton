@@ -1,5 +1,3 @@
-# Hello! 👋
-
 ![image](https://user-images.githubusercontent.com/21957617/196155260-cd427042-c1cd-4902-9d29-cf101a7d287b.png)
 
 Most things I get up to are to do with sound, be it engineering, thinking about it, or just listening.
