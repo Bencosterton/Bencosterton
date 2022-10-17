@@ -20,7 +20,3 @@ Get in touch --> bencosterton@gmail.com
 <br />
 
 
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
-          
