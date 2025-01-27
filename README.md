@@ -1,4 +1,5 @@
-![Hello, I’m Ben](https://github.com/user-attachments/assets/d178cd04-9787-4f2c-86d2-ce4ff3b4cf6e)
+
+![Hello, I’m Ben](https://github.com/user-attachments/assets/42f9c728-ac22-4939-b2b9-fab4f344ad93)
 
 
 Hi I'm Ben, a broadcast engineer. 
