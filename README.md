@@ -2,10 +2,10 @@
 ![Hello, I’m Ben](https://github.com/user-attachments/assets/42f9c728-ac22-4939-b2b9-fab4f344ad93)
 
 
-Hi I'm Ben, a broadcast engineer. 
-This is a collection of projects and thoughts on working within broadcast engineering. 
-Say hi.
-Get in touch --> bencosterton@gmail.com
+Hi I'm Ben, a broadcast engineer. <br>
+This is a collection of projects and thoughts on working within broadcast engineering. <br>
+Say hi.<br>
+Get in touch --> bencosterton@gmail.com <br>
 
 ---
 
